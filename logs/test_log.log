@@ -1,0 +1,32 @@
+2024-11-25 23:33:37,871 - test.conftest - INFO - Starting Playwright browser
+2024-11-25 23:33:39,422 - test.test_form_submission - INFO - Starting test: test_form_submission
+2024-11-25 23:33:39,422 - FormPage - INFO - Navigating to URL: https://demoqa.com/automation-practice-form
+2024-11-25 23:33:45,084 - FormPage - INFO - Filling the form with provided data
+2024-11-25 23:33:45,087 - FormPage - INFO - Filling input #firstName with value: John
+2024-11-25 23:33:45,129 - FormPage - INFO - Filling input #lastName with value: Doe
+2024-11-25 23:33:45,140 - FormPage - INFO - Filling input #userEmail with value: john.doe@yopmail.com
+2024-11-25 23:33:45,145 - FormPage - INFO - Clicking element: //label[contains(text(), 'Male')]
+2024-11-25 23:33:45,200 - FormPage - INFO - Filling input #userNumber with value: 1234567890
+2024-11-25 23:33:45,205 - FormPage - INFO - Filling date of birth
+2024-11-25 23:33:45,205 - FormPage - INFO - Clicking element: #dateOfBirthInput
+2024-11-25 23:33:45,270 - FormPage - INFO - Filling input #dateOfBirthInput with value: 01 01 1996
+2024-11-25 23:33:45,282 - FormPage - INFO - Submitting the form
+2024-11-25 23:33:45,282 - FormPage - INFO - Clicking element: #submit
+2024-11-25 23:33:45,326 - test.test_form_submission - INFO - Test case completed: test_form_submission
+2024-11-25 23:33:45,327 - test.conftest - INFO - Closing Playwright browser
+2024-11-26 18:50:48,467 - test.conftest - INFO - Starting Playwright browser
+2024-11-26 18:50:50,494 - test.test_form_submission - INFO - Starting test: test_form_submission
+2024-11-26 18:50:50,495 - FormPage - INFO - Navigating to URL: https://demoqa.com/automation-practice-form
+2024-11-26 18:50:55,593 - FormPage - INFO - Filling the form with provided data
+2024-11-26 18:50:55,594 - FormPage - INFO - Filling input #firstName with value: John
+2024-11-26 18:50:55,636 - FormPage - INFO - Filling input #lastName with value: Doe
+2024-11-26 18:50:55,648 - FormPage - INFO - Filling input #userEmail with value: john.doe@yopmail.com
+2024-11-26 18:50:55,655 - FormPage - INFO - Clicking element: //label[contains(text(), 'Male')]
+2024-11-26 18:50:55,716 - FormPage - INFO - Filling input #userNumber with value: 1234567890
+2024-11-26 18:50:55,720 - FormPage - INFO - Filling date of birth
+2024-11-26 18:50:55,721 - FormPage - INFO - Clicking element: #dateOfBirthInput
+2024-11-26 18:50:55,796 - FormPage - INFO - Filling input #dateOfBirthInput with value: 01 01 1996
+2024-11-26 18:50:55,807 - FormPage - INFO - Submitting the form
+2024-11-26 18:50:55,807 - FormPage - INFO - Clicking element: #submit
+2024-11-26 18:50:55,855 - test.test_form_submission - INFO - Test case completed: test_form_submission
+2024-11-26 18:50:55,855 - test.conftest - INFO - Closing Playwright browser
